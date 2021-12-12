@@ -6,7 +6,7 @@
 
 - 💬 Ask me about Flutter Development.
 
-- 🌱 I’m currently learning Web Dev Full Stack.
+- 🌱 I’m currently learning Full Stack Web Development.
 
 
 <br><br>
