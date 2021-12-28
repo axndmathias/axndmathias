@@ -35,7 +35,8 @@
 <br>
 
 <hr>
-<br><br>
+
+
 ![Snake animation](https://github.com/axndmathias/axndmathias/blob/output/github-contribution-grid-snake.svg)
 
 
