@@ -10,6 +10,20 @@
   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=axndmathias??style=for-the-badge&logo=appveyor"></a>
 </p>
 
+<p align="center">
+    <a href="https://twitter.com/axndmathias" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-axndmathias-05122A?style=flat&logo=twitter" alt="twitter"/>  
+    </a>
+    <a href="https://www.instagram.com/axnd/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-axnd-05122A?style=flat&logo=instagram" alt="instagram"/>
+    </a>
+    <a href="https://ch.linkedin.com/in/axndmathias" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-axndmathias-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+    </a>
+    </a>
+</p>
+
+
 <hr>
 <br>
 
@@ -24,18 +38,18 @@
 <hr>
 
 #### 💻 I'm using these languages and tools 
-<br>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<br>
+
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <hr>
-
 
 ![Snake animation](https://github.com/axndmathias/axndmathias/blob/output/github-contribution-grid-snake.svg)
 
