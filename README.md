@@ -2,7 +2,7 @@
 <h1 align='center'> Hi there 👋, I am Alexandre Mathias👨🏿‍💻</h1>
 
 <p align='center'>
- I Love building mobile apps with Flutter and learning web apps with React.
+ I Love building mobile apps with Flutter and learning Spring Boot React Full Stack.
  
 </p>
 
